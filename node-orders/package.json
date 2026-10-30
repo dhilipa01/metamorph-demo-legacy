@@ -1,0 +1,16 @@
+{
+  "name": "legacy-node-orders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.0",
+    "lodash": "4.17.15",
+    "request": "^2.88.0"
+  }
+}

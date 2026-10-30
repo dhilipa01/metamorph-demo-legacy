@@ -1,0 +1,8 @@
+{
+  "name": "legacy/php-shop",
+  "require": {
+    "php": ">=7.2",
+    "guzzlehttp/guzzle": "6.5.0",
+    "symfony/http-kernel": "4.4.0"
+  }
+}
